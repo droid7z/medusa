@@ -10,6 +10,7 @@
 # LIBRARIES #
 #############
 import os
+import time
 
 MEDUSA_LOGO_BANNER = ("""
  • ▌ ▄ ·. ▄▄▄ .·▄▄▄▄  ▄• ▄▌.▄▄ ·  ▄▄▄· 
